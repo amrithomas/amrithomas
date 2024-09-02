@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Desenvolvedor Fullstack <br><br>🎓 Formação em Análise e Desenvolvimento de Sistemas <br><br>🚀 Habilidades Técnicas:<br>      •  Front-end: React.js, Angular, HTML, CSS, JavaScript, Typescript, Bootstrap<br>      •  Back-end: Laravel, APIs RESTful<br>      •  Banco de Dados: MySQL<br>      •  Outros: Git, AWS<br><br>
+👨‍💻 Desenvolvedor Fullstack <br><br>🎓 Formação em Análise e Desenvolvimento de Sistemas e Tecnico em Desenvolvimento de Sistemas <br><br>🚀 Habilidades Técnicas:<br>      •  Front-end: React.js, Angular, HTML, CSS, JavaScript, Typescript, Bootstrap<br>      •  Back-end: Laravel, APIs RESTful<br>      •  Banco de Dados: MySQL<br>      •  Outros: Git, AWS<br><br>
 
 
 ## 🌐 Socials:
