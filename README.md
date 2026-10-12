@@ -29,7 +29,6 @@ const amri = {
 };
 ```
 
-- 🔭 Atualmente construindo uma **Pokédex full stack com batalhas VGC contra IA**
 - 🌱 Aprendendo mais sobre **arquitetura de serviços, containers e IA aplicada**
 - 💬 Pode me chamar para falar de **React, Laravel, APIs REST** e... **Pokémon** 🔴
 
