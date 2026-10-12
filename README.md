@@ -61,6 +61,5 @@ const amri = {
 
 <img src="https://komarev.com/ghpvc/?username=amrithomas&label=Visitas+no+perfil&color=B76CFD&style=flat" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=100&section=footer" width="100%"/>
 
 </div>
