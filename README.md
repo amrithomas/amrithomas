@@ -1,21 +1,67 @@
-# 💫 About Me:
-👨‍💻 Desenvolvedor Fullstack <br><br>🎓 Formação em Análise e Desenvolvimento de Sistemas e Tecnico em Desenvolvimento de Sistemas <br><br>🚀 Habilidades Técnicas:<br>      •  Front-end: React.js, Angular, HTML, CSS, JavaScript, Typescript, Bootstrap<br>      •  Back-end: Laravel, APIs RESTful<br>      •  Banco de Dados: MySQL<br>      •  Outros: Git, AWS<br><br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=180&section=header&text=Amri%20Righetti&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amri-righetti-3319811b7/) 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=B76CFD&center=true&vCenter=true&width=520&lines=React+%2B+TypeScript+no+front-end;Laravel+%2B+PHP+no+back-end;MySQL%2C+Docker+e+Node.js;%F0%9F%A5%89+Bronze+no+S%C3%A3o+Paulo+Skills" alt="Typing SVG" /></a>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amrithomas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amrithomas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amrithomas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amrithomas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amri-righetti-3319811b7/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amri.righetti@gmail.com)
+![São Paulo](https://img.shields.io/badge/S%C3%A3o_Paulo-Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amrithomas&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 Sobre mim
+
+```ts
+const amri = {
+  cargo: "Desenvolvedor Full Stack Pleno",
+  local: "São Paulo, Brasil 🇧🇷",
+  formacao: [
+    "Análise e Desenvolvimento de Sistemas",
+    "Técnico em Desenvolvimento de Sistemas",
+  ],
+  conquista: "🥉 Medalha de bronze em Tecnologias Web — São Paulo Skills",
+  focoAtual: ["React 19 + TypeScript", "Laravel 12", "Docker", "Integração com IA (Claude API)"],
+};
+```
+
+- 🔭 Atualmente construindo uma **Pokédex full stack com batalhas VGC contra IA**
+- 🌱 Aprendendo mais sobre **arquitetura de serviços, containers e IA aplicada**
+- 💬 Pode me chamar para falar de **React, Laravel, APIs REST** e... **Pokémon** 🔴
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+**Front-end**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vite,materialui,bootstrap,redux&perline=11" />
+
+**Back-end & Banco de Dados**<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql&perline=11" />
+
+**DevOps & Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=docker,nginx,aws,git,github&perline=11" />
+
+**Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart&perline=11" />
+
+**Ferramentas & Design**<br/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,jira,notion&perline=11" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=amrithomas&label=Visitas+no+perfil&color=B76CFD&style=flat" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=100&section=footer" width="100%"/>
+
+</div>
