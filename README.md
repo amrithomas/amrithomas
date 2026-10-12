@@ -52,7 +52,7 @@ const amri = {
 <img src="https://skillicons.dev/icons?i=flutter,dart&perline=11" />
 
 **Ferramentas & Design**<br/>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,jira,notion&perline=11" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,notion&perline=11" />
 
 </div>
 
